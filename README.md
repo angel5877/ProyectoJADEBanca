@@ -240,7 +240,7 @@ Agente Gerente Gerente@... terminando.
 
 💡 Posibles Mejoras Futuras
 
-Conectar los agentes a APIs reales (RENIC, Infocorp, un servicio de email).
+Conectar los agentes a APIs reales (RENIEC, Infocorp, un servicio de email).
 
 Añadir un AgenteDetectorFraude como un paso adicional en el flujo.
 
